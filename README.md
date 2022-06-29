@@ -28,6 +28,4 @@ This tutorial includes the entire flow from raw dataset to predictions and class
 
 ## Author
 
--   **Merve Noyan**  - [merveenoyan](https://github.com/merveenoyan)
-
-> Written with [StackEdit](https://stackedit.io/).
+-   **Dr. Nano**  - [sevdanurgenc](https://github.com/sevdanurgenc)
