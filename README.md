@@ -1,4 +1,4 @@
-# Data-Reprocessing-Workshop
+# Data-Science-Reprocessing-Workshop
 
 
 # End-to-End Prediction and Classification Tutorial on Tips Dataset
